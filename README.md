@@ -27,21 +27,27 @@
 
 ### 👋 Hello World! I'm Hoang Kim
 
-🎓 **Computer Science Student** @ **UIT - VNUHCM** (3rd Year)  
-📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
-
-💡 I'm passionate about building **AI systems** that solve real-world problems — from **theory to production**!
+📍 **Living and studying in Ho Chi Minh City, Vietnam 🇻🇳**
+💡 **I enjoy building highly automated bot systems on Telegram, especially scripts related to Stresser load testing.**
+💻 **And I also really enjoy writing DDoS scripts (specifically for security research and learning purposes).**
 
 <br>
 
 🔬 **What I Do:**
 
-- 🧠 **Deep Learning** — CNNs, Transformers, Object Detection (YOLO)
-- 🤖 **LLMs & AI Agents** — RAG, Fine-tuning, Agentic Systems
-- 👁️ **Computer Vision** — Face Recognition, Traffic Sign Detection
-- 📊 **Big Data** — Real-time streaming with Kafka, Spark, Airflow
-- 🔧 **MLOps** — Model deployment, monitoring with MLflow
-- 🎮 **Reinforcement Learning** — Multi-agent systems, IL/RL for detection
+-**🧠 Deep Learning — CNN, Transformers, YOLO**
+
+-**🤖 LLMs & AI Agents — RAG, Fine-tuning**
+
+-**👁️ Computer Vision — Face Recognition, Traffic Sign Detection**
+
+-**📊 Big Data — Kafka, Spark, Airflow**
+
+-**🔧 MLOps — MLflow, Model Deployment**
+
+-**🎮 Reinforcement Learning — Multi-agent systems**
+
+-**⚡ Security & Automation — Telegram bot, DDoS simulation for stress testing**
 
 <br>
 
