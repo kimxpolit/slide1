@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="https://github.com/HoangKim?tab=followers">
-    <img src="https://img.shields.io/github/followers/16?label=Followers&style=for-the-badge&logo=github&color=667eea" />
+    <img src="https://img.shields.io/github/followers/888888?label=Followers&style=for-the-badge&logo=github&color=667eea" />
   </a>
-  <a href="https://github.com/KhoiBui16?tab=repositories">
+  <a href="https://github.com/kimxpolit?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-47+-f093fb?style=for-the-badge&logo=github" />
   </a>
 </p>
