@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+CS+Student+%40;%F0%9F%A4%96+Building+AI+Systems+from+Theory+to+Production;%F0%9F%94%A5+Passionate+about+LLMs%2C+Big+Data+%26+MLOps" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+CS+Student+%40;%F0%9F%A4%96+Building+AI+Systems+from+Theory+to+Production;%F0%9F%94%A5+Passionate+about+LLMs%2C+Big+Data+%26+MLOps" alt="Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Welcome+to+Hoang+Kim's+GitHub)" /></a>
 </p>
 
 <p align="center">
