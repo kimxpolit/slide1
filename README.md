@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/HoangKim?tab=followers">
-    <img src="https://img.shields.io/github/followers/KhoiBui16?label=Followers&style=for-the-badge&logo=github&color=667eea" />
+    <img src="https://img.shields.io/github/followers/16?label=Followers&style=for-the-badge&logo=github&color=667eea" />
   </a>
   <a href="https://github.com/KhoiBui16?tab=repositories">
     <img src="https://img.shields.io/badge/Repos-47+-f093fb?style=for-the-badge&logo=github" />
@@ -25,7 +25,7 @@
 
 <img align="right" alt="AI Animation" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-### 👋 Hello World! I'm **Anh Khoi**
+### 👋 Hello World! I'm Hoang Kim
 
 🎓 **Computer Science Student** @ **UIT - VNUHCM** (3rd Year)  
 📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳
