@@ -147,11 +147,11 @@
 
 <div align="center">
   
-  ![KhoiBui16's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KhoiBui16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![HoangKimJS's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HHKJS16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=KhoiBui16&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=HHKJS&theme=tokyonight&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KhoiBui16&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+  ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HHKJS16&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
