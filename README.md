@@ -28,6 +28,7 @@
 ### 👋 Hello World! I'm Hoang Kim
 
 📍 **Living and studying in Ho Chi Minh City, Vietnam 🇻🇳**
+
 💡 **I enjoy building highly automated bot systems on Telegram, especially scripts related to Stresser load testing.**
 💻 **And I also really enjoy writing DDoS scripts (specifically for security research and learning purposes).**
 
